@@ -80,6 +80,7 @@
 - [从jhttpd分析到系统命令注入(CVE-2021-46227-D-Link Di-7200G 命令注入漏洞)](./books/从jhttpd分析到系统命令注入(CVE-2021-46227-D-Link%20Di-7200G%20命令注入漏洞).html)
 - [2024 RWCTF群晖 BC500摄像头RCE--未授权_栈溢出](./books/2024%20RWCTF群晖%20BC500摄像头RCE--未授权_栈溢出.html)
 - [路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取](./books/路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取.html)
+- [NX_Firmware：任天堂Switch各版本固件数据库](https://github.com/THZoria/NX_Firmware)
 
 ## <span id="head4">Web APP</span>
 
